@@ -21,5 +21,5 @@ function sayHiToGrandma(str)
   else if (isLowerCase(str))
     return "YES INDEED!"
   else if (str === 'I love you, Grandma.')
-    return "I love you too"
+    return "I love you, too."
 }
