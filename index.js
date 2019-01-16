@@ -18,4 +18,6 @@ function sayHiToGrandma(str)
 {
   if(isUpperCase(str))
     return "I cant hear you!"
+  else if(isLowerCase(str))
+    return "YES INDEED!"
 }
